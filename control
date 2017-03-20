@@ -1,0 +1,9 @@
+Package: com.wizages.canyoulikenot
+Name: CanYouLikeNot
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wizages
+Author: wizages
+Section: Tweaks
